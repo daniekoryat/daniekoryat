@@ -1,4 +1,4 @@
-# Hello, I'm danielkoryat] 👋
+# Hello, I'm danielkoryat👋
 
 I'm a Software Development student who is passionate about learning new technologies. I believe in the power of programming to transform and improve the lives of people around the world.
 
